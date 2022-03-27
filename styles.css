@@ -1,0 +1,15 @@
+.word {
+  font-size: 30px;
+}
+
+body {
+  background-color: rgba(75,0,130,0.6);
+}
+
+hr {
+  border-style: double none none none;
+  height: 2px;
+  color: white;
+  width: 90%
+
+}
