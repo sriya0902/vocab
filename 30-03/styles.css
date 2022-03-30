@@ -1,0 +1,50 @@
+body {
+  background-color: turquoise;
+}
+hr{
+  border-style:none;
+}
+
+
+.w1{
+  background-color: burlywood;
+}
+
+.w2{
+  background-color: darksalmon;
+}
+
+.w3 {
+  background-color: wheat;
+}
+
+.w4 {
+  background-color: thistle;
+}
+
+.w5 {
+  background-color: silver;
+}
+
+.w6{
+  background-color: powderblue;
+}
+
+.w7{
+  background-color: pink;
+}
+.w8{
+  background-color: snow;
+}
+.w9{
+    background-color: greenyellow;
+}
+.w10{
+    background-color: mediumaquamarine;
+}
+.def {
+  font-style: italic;
+}
+.syn{
+  font-style:italic;
+}
