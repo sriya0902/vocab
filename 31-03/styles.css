@@ -1,0 +1,58 @@
+body{
+  background-color: grey;
+}
+h3:hover{
+  color: white;
+  font-size:25px;
+}
+.w1{
+background-color: cornsilk;
+border: solid turquoise 5px;
+padding: 5px;
+}
+.w2{
+  border: solid turquoise 5px;
+  padding: 5px;
+  background-color: aquamarine;
+}
+
+.w3{
+  border: solid turquoise 5px;
+  padding: 5px;
+  background-color: cyan;
+}
+
+.w4{
+  border: solid turquoise 5px;
+  padding: 5px;
+  background-color: whitesmoke;
+}
+
+.w5{
+  border: solid turquoise 5px;
+  padding: 5px;
+  background-color: darksalmon;
+}
+.w6{
+  border: solid turquoise 5px;
+  padding: 5px;
+  background-color: wheat;
+}
+.w7{
+  border: solid turquoise 5px;
+  padding: 5px;
+  background-color: thistle;
+}
+.def{
+    font-style: oblique;
+    font-weight: 200;
+}
+.note{
+      background-color: floralwhite;
+}
+#n1 {
+    color: indigo;
+}
+#n2 {
+    color: darkblue;
+}
