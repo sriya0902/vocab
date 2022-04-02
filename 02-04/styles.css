@@ -1,0 +1,53 @@
+body{
+  background-color: grey;
+}
+h3:hover{
+  color: white;
+  font-size:25px;
+
+}
+.w1{
+background-color: cornsilk;
+border: solid turquoise 5px;
+padding: 25px;
+}
+.w2{
+  border: solid turquoise 5px;
+  padding: 25px;
+  background-color: aquamarine;
+}
+
+.w3{
+  border: solid turquoise 5px;
+  padding: 25px;
+  background-color: cyan;
+}
+
+.ety{
+  font-weight:bolder;
+}
+
+.def{
+  font-weight:bolder;
+}
+
+.syn{
+  font-weight: bolder;
+}
+.footer{
+  background-color: aquamarine;
+}
+#n1{
+  color:darkmagenta;
+  padding:25px;
+  margin-top: 0;
+  padding-top: 10px;
+
+}
+#subtitle{
+  font-size:25px;
+  margin-bottom: 0;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
