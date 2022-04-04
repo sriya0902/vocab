@@ -1,0 +1,63 @@
+body {
+  background-color: gainsboro;
+}
+
+h3 {
+  font-family: cursive;
+}
+
+hr {
+  border-style: solid;
+  width: 70%;
+}
+
+h3:hover {
+  font-size: 20px;
+  color: crimson;
+}
+
+.item {
+  font-weight: 800;
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+.def {
+  font-weight: 600;
+}
+
+.syn {
+  font-weight: 600;
+}
+
+.ety {
+  font-weight: 600;
+}
+
+#w1 {
+  background-color: palegoldenrod;
+  padding: 10px;
+  padding-left: 30px;
+  margin-right: 80px;
+}
+
+#w2 {
+  background-color: bisque;
+  padding: 10px;
+  padding-left: 30px;
+  margin-right: 80px;
+}
+
+#w3 {
+  background-color: darkkhaki;
+  padding: 10px;
+  padding-left: 30px;
+  margin-right: 80px;
+}
+#in-use {
+  background-color: plum;
+  padding: 10px;
+  padding-left: 30px;
+  margin-left: 20px;
+  margin-right: 60px;
+}
